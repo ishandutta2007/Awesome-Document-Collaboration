@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Google Workspace](https://workspace.google.com/)**  
-
-  Cloud-native suite (Docs, Sheets, Slides, Drive) offering seamless real-time co-editing, sharing, version history, and deep integration across Google’s productivity ecosystem.
-
-
-
-- **[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)**  
-
-  Enterprise productivity platform with Word, Excel, PowerPoint, OneDrive, and SharePoint providing high-fidelity desktop + web co-authoring, governance, and Copilot AI features.
-
-
-
-- **[Dropbox DocSend](https://www.dropbox.com/docsend)**  
-
-  Secure document sharing and tracking solution focused on controlled external collaboration, analytics on viewer engagement, and professional content distribution.
-
-
-
-- **[ONLYOFFICE](https://www.onlyoffice.com/)**  
-
-  Online office suite with strong Microsoft Office format compatibility, real-time co-editing, and both cloud and self-hosted deployment options.
-
-
-
-- **[Zoho WorkDrive](https://www.zoho.com/workdrive/)**  
-
-  Team file management and collaboration platform with online editors, granular permissions, workflows, and tight integration into the Zoho ecosystem.
-
-
-
-- **[Box](https://www.box.com/)**  
-
-  Enterprise content cloud for secure file sharing, collaboration, governance, workflow automation, and extensive third-party integrations.
-
-
-
-- **[Egnyte](https://www.egnyte.com/)**  
-
-  Hybrid content collaboration and governance platform combining cloud and on-premises storage with advanced security, compliance, and multi-location access.
-
-
-
-- **[Nextcloud](https://nextcloud.com/)**  
-
-  Content collaboration platform (also available as fully open-source self-hosted software) offering file sync, sharing, collaborative editing, and groupware features.
-
-
-
-- **[Confluence](https://www.atlassian.com/software/confluence)**  
-
-  Team knowledge base and documentation platform tightly integrated with Jira, supporting structured pages, real-time editing, and enterprise knowledge management.
-
-
-
-- **[Notion](https://www.notion.so/)**  
-
-  Flexible all-in-one workspace combining documents, databases, wikis, and project tools with real-time collaboration and highly customizable pages.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Google Workspace](https://workspace.google.com/)** | Cloud-native suite (Docs, Sheets, Slides, Drive) offering seamless real-time co-editing, sharing, version history, and deep integration across Google’s productivity ecosystem. | Starts at $6/user/month | 15GB storage (Personal account) |
+| **[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)** | Enterprise productivity platform with Word, Excel, PowerPoint, OneDrive, and SharePoint providing high-fidelity desktop + web co-authoring, governance, and Copilot AI features. | Starts at $6/user/month | 5GB storage (Personal account) |
+| **[Dropbox DocSend](https://www.dropbox.com/docsend)** | Secure document sharing and tracking solution focused on controlled external collaboration, analytics on viewer engagement, and professional content distribution. | Starts at $15/user/month | None (14-day trial) |
+| **[ONLYOFFICE](https://www.onlyoffice.com/)** | Online office suite with strong Microsoft Office format compatibility, real-time co-editing, and both cloud and self-hosted deployment options. | Starts at $15/admin/month | 2GB storage, 2 power users (DocSpace) |
+| **[Zoho WorkDrive](https://www.zoho.com/workdrive/)** | Team file management and collaboration platform with online editors, granular permissions, workflows, and tight integration into the Zoho ecosystem. | Starts at $2.50/user/month | None (15-day trial) |
+| **[Box](https://www.box.com/)** | Enterprise content cloud for secure file sharing, collaboration, governance, workflow automation, and extensive third-party integrations. | Starts at $15/user/month | 10GB storage, 250MB file size |
+| **[Egnyte](https://www.egnyte.com/)** | Hybrid content collaboration and governance platform combining cloud and on-premises storage with advanced security, compliance, and multi-location access. | Starts at $20/user/month | None (15-day trial) |
+| **[Nextcloud](https://nextcloud.com/)** | Content collaboration platform (also available as fully open-source self-hosted software) offering file sync, sharing, collaborative editing, and groupware features. | Free (Self-hosted) / Varies | Varies by hosting provider |
+| **[Confluence](https://www.atlassian.com/software/confluence)** | Team knowledge base and documentation platform tightly integrated with Jira, supporting structured pages, real-time editing, and enterprise knowledge management. | Starts at $6.05/user/month | Up to 10 users, 2GB storage |
+| **[Notion](https://www.notion.so/)** | Flexible all-in-one workspace combining documents, databases, wikis, and project tools with real-time collaboration and highly customizable pages. | Starts at $8/user/month | Unlimited blocks (Individuals), 5MB uploads |
 
 
 
